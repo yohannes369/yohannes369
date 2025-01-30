@@ -2,7 +2,7 @@
 
 ### About Me
 - 🎓 I'm a **Computer Science Student** passionate about coding and building cool projects.
-- 🔭 I’m currently working on **[Project Name](link-to-project)**.
+- 🔭 I’m currently working on **[ims ](link-to-project)**.
 - 🌱 I’m currently learning **Advanced JavaScript and React**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **Python, JavaScript, Node.js, React, or WordPress**.
@@ -70,6 +70,12 @@
 ![Forks](https://img.shields.io/github/forks/yohannes-yeneakal/repo-name?style=social)
 - **Description:** A brief description of your project.
 - **Tech Stack:** Node.js, WordPress, PHP
+
+---
+
+### GitHub Metrics (Grades)
+
+![GitHub Metrics](https://metrics.lecoq.io/yohannes-yeneakal?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FAddis_Ababa)
 
 ---
 
