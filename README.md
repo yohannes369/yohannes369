@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm [yohnannes yeneakal teshome ]
 
 ### About Me
-- 🔭 I’m currently working on **[Project Name](link-to-project)**
-- 🌱 I’m currently learning **[phyton react /Tech]**
-- 👯 I’m looking to collaborate on **[Project/Idea]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email or Social Media]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Something Fun About You]**
+- 🔭 I’m currently working on **[ims ](link-to-project)**
+- 🌱 I’m currently learning **[phyton react php express nodejs tailwindcss/Tech]**
+- 👯 I’m looking to collaborate on **[inventory managment system /Idea]**
+- 💬 Ask me about **[nodejs react ]**
+- 📫 How to reach me: **[yohannesyeneakal1@gmail.com]**
+- 😄 Pronouns: **[sir ]**
+- ⚡ Fun fact: **[nothing is free ]**
 
 ---
 
@@ -102,4 +102,4 @@ If you find my work interesting, consider supporting me:
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [yohannes yenealal](https://github.com/yourusername)
