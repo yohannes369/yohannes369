@@ -1,13 +1,15 @@
-## Hi there 👋 I'm [yohnannes yeneakal teshome ]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Streak Stats" width="45%" />
+</p>
 
-### About Me
-- 🔭 I’m currently working on **[ims ](link-to-project)**
-- 🌱 I’m currently learning **[phyton react php express nodejs tailwindcss/Tech]**
-- 👯 I’m looking to collaborate on **[inventory managment system /Idea]**
-- 💬 Ask me about **[nodejs react ]**
-- 📫 How to reach me: **[yohannesyeneakal1@gmail.com]**
-- 😄 Pronouns: **[sir ]**
-- ⚡ Fun fact: **[nothing is free ]**
+- 🔭 I’m currently working on **[Inventory Management System](link-to-project)**  
+- 🌱 I’m currently learning **Python, React, PHP, Express, Node.js, TailwindCSS**  
+- 👯 I’m looking to collaborate on **Inventory Management Systems or Innovative Ideas**  
+- 💬 Ask me about **Node.js, React, Backend Development**  
+- 📫 How to reach me: **[yohannesyeneakal1@gmail.com](mailto:yohannesyeneakal1@gmail.com)**  
+- 😄 Pronouns: **Sir**  
+- ⚡ Fun fact: **Nothing is free in life, but knowledge is the most valuable currency!**
 
 ---
 
