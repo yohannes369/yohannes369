@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **[Inventory Management System / Idea]**
 - 💬 Ask me about **Node.js, React, and JavaScript**
 - 📫 How to reach me: **[yohannesyeneakal1@gmail.com]**
-- 😄 Pronouns: **Sir**
+- 😄 Pronouns: **day and day out**
 - ⚡ Fun fact: **Nothing is free!**
 
 ---
