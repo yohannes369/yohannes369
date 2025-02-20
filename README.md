@@ -29,9 +29,30 @@
 
 ---
 
-### Top Languages
+### Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true)
+
+---
+
+### Recent Activity Overview
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark&hide_border=true)
+
+---
+
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css&langs_count=6)
+
+---
+
+### Coding Activity (via WakaTime)
+
+<!-- If you use WakaTime, uncomment the below line and replace `yourusername` with your WakaTime username -->
+<!--
+![WakaTime Stats](https://wakatime.com/share/@yourusername/your-wakatime-id.png)
+-->
 
 ---
 
@@ -127,4 +148,16 @@
 
 ---
 
-###
+### Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+---
+
+### Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+Made with ❤️ by [Yohannes Yeneakal](https://github.com/yourusername)
