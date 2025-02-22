@@ -36,16 +36,22 @@
 
 ---
 
-### Recent Activity Overview yohannes yeneakal
+### Recent Activity Overview Yohannes Yeneakal
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yohannes369&theme=github-dark&hide_border=true&custom_title=Recent%20Activity%20Overview)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
+### Streak Stats Yohannes Yeneakal 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yohannes369&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)
 
 ---
 
-### Streak Stats yohannes yeneakal 
+### Language Usage Yohannes Yeneakal
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yohannes369&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes369&layout=compact&theme=radical)
+
 
 ---
 
