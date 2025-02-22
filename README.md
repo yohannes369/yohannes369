@@ -31,13 +31,13 @@
 
 ### Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### Recent Activity Overview
 
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark&hide_border=true&custom_title=Recent%20Activity%20Overview)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
