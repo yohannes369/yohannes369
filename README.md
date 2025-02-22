@@ -25,19 +25,19 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
 ### Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### Recent Activity Overview
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark&hide_border=true)
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
