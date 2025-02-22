@@ -31,7 +31,8 @@
 
 ### Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yohannes369&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yohannes369&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
