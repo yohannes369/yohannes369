@@ -25,7 +25,7 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannes369&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)
+![GitHub Streak](https://streak-stats.demolab.com?user=yohannes369&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)
 
 ---
 
