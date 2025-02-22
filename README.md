@@ -31,7 +31,7 @@
 
 ### Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yohannes369&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Visitor Count
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yohannes369.yohannes369)
 
 ---
 
@@ -59,4 +59,4 @@
 
 ---
 
-Made with ❤️ by [Yohannes Yeneakal](https://github.com/yourusername)
+Made with ❤️ by [Yohannes Yeneakal](https://github.com/yohannes369)
