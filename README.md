@@ -67,4 +67,4 @@
 
 ---
 
-Made with ❤️ by [Yohannes Yeneakal](https://github.com/yohannes369)
+Made with  by [Yohannes Yeneakal](https://github.com/yohannes369)
