@@ -20,6 +20,7 @@
 - 📫 How to reach me: **[yohannesyeneakal1@gmail.com](mailto:yohannesyeneakal1@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Nothing is free!**
+- portfolio
 
 ---
 
