@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **[IMS (Inventory Management System)](https://github.com/yourusername/ims-project)**
 - 🌱 I’m currently learning **Python, React, PHP, Express, Node.js, TailwindCSS**
 - 👯 I’m looking to collaborate on **Inventory Management Systems or related ideas**
-- 💬 Ask me about **Node.js, React, JavaScript,php,tailwindcss**
+- 💬 Ask me about **Node.js, React, JavaScript,php,tailwindcss,AWS**
 - 📫 How to reach me: **[yohannesyeneakal1@gmail.com](mailto:yohannesyeneakal1@gmail.com)**
 - 😄 Pronouns: **kend**
 - ⚡ Fun fact: **Nothing is free!**
