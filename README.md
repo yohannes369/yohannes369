@@ -10,7 +10,7 @@
 
 ---
 
-# Hi there 👋 I'm Yohannes Yeneakal 
+# Hi there 👋 I'm Yohannes Yeneakal  teshome
 
 ### About Me
 - 🔭 I’m currently working on **[IMS (Inventory Management System)](https://github.com/yourusername/ims-project)**
