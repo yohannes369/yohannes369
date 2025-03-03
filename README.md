@@ -20,7 +20,7 @@
 - 📫 How to reach me: **[yohannesyeneakal1@gmail.com](mailto:yohannesyeneakal1@gmail.com)**
 - 😄 Pronouns: **kend**
 - ⚡ Fun fact: **Nothing is free!**
-- portfolio
+
 
 ---
 
