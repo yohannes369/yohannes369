@@ -84,35 +84,8 @@
 
 ---
 
-## 🎯 Visitor Count  
+## 🎯 Visitor Count (Started from 2024)  
 
 <div align="center">
 
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yohannes369&title=Profile%20Views)
-
-</div>
-
----
-
-## 💡 Random Dev Quote  
-
-<div align="center">
-
-  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-### 🛠 Made with ❤️ by [Yohannes Yeneakal](https://github.com/yohannes369)  
-
----
-
-### ✅ What's Fixed & Improved?  
-✔ **Fixed Visitor Count** – Now works properly using `hits.seeyoufarm.com`  
-✔ **Optimized Widgets** – Better loading performance  
-✔ **Grammar & Formatting** – Cleaned up sentences and improved clarity  
-
----
-
-This version is **professional, optimized, and visually appealing**. Let me know if you need further tweaks! 🚀🔥
+  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yohannes369&title=Profile%20Views&
