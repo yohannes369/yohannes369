@@ -11,7 +11,7 @@
 ---
 
 # 👋 hi there, I'm Yohannes Yeneakal Teshome 
-### 🚀 About M  
+### 🚀 About Me  
 - 🔭 Currently working on **[IMS (Inventory Management System)](https://github.com/yohannes369/ims-project)**
 - 🌱 Learning **Python, React, PHP, Express, Node.js, TailwindCSS**
 - 👯 Open to collaboration on **Inventory Management Systems and related projects**
