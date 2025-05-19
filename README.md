@@ -4,7 +4,7 @@
 </div> 
 
 <!-- Typing Animation --> 
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=I+am+Yohannes+Yeneakal%2C+Web+Developer.;Passionate+about+building+scalable+systems.;Let's+create+something+amazing!;" alt="Typing Animation" />
 </div>
  
